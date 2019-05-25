@@ -163,7 +163,6 @@
     <ResourceCompile Include="WinAPI_Sample.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="bitmap\haikei.jpg" />
     <Image Include="small.ico" />
     <Image Include="WinAPI_Sample.ico" />
   </ItemGroup>

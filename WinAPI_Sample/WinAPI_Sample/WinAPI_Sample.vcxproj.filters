@@ -45,8 +45,5 @@
     <Image Include="WinAPI_Sample.ico">
       <Filter>リソース ファイル</Filter>
     </Image>
-    <Image Include="bitmap\haikei.jpg">
-      <Filter>リソース ファイル</Filter>
-    </Image>
   </ItemGroup>
 </Project>
